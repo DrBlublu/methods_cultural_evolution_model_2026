@@ -1,1 +1,3 @@
-# methods_cultural_evolution_model_2026
+# Bonus activity
+
+Read and play with the excellent course of Adian Bell: https://shiny.culturalevolutionsociety.org/m1/
